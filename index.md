@@ -9,7 +9,8 @@
 > Insert quote here
 
 ## Quoting Code
-'git push origin master'
+`git push origin master`
+
 ## External Links
 [Recursive](https://edwardyang12.github.io/User/)
 ## Section Links
