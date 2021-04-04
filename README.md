@@ -1,2 +1,1 @@
-# User
-Pages
+URL of published Github page: https://edwardyang12.github.io/User/
