@@ -3,10 +3,11 @@
 ## Headings
 ###### Small
 ## Styling text
-** BOLD TEXT **
-~~ STRIKETHROUGH TEXT ~~
+**BOLD TEXT**
+~~STRIKETHROUGH TEXT~~
 ## Quoting text
 > Insert quote here
+
 ## Quoting Code
 'git push origin master'
 ## External Links
