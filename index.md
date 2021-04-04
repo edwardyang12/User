@@ -4,7 +4,7 @@
 ###### Small
 ## Styling text
 ** BOLD TEXT **
-* ITALIC TEXT *
+~~ STRIKETHROUGH TEXT ~~
 ## Quoting text
 > Insert quote here
 ## Quoting Code
